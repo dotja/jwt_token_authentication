@@ -1,2 +1,2 @@
-# jwt_token_authentication
+# JWT Token Authentication
 Using JWT authentication with Django Rest Framework
